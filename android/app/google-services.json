@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "63259313176",
+    "project_id": "newchatapp-7bff6",
+    "storage_bucket": "newchatapp-7bff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63259313176:android:10ce4add4cbf29c0c0ef6d",
+        "android_client_info": {
+          "package_name": "com.example.login_page_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63259313176-ke583ovhri963d8f1v7p4rtasq6g4uqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFp7YxxpYaI4mpk2OW9HN0anX2f7ww3kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63259313176-ke583ovhri963d8f1v7p4rtasq6g4uqu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63259313176-q8cnpsvktsu79bihkm6o5dioohieeadc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginPageAuth.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
